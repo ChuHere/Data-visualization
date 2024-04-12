@@ -1,0 +1,1 @@
+In this project, we will look into animal shelter data from Austin, Texas USA. We will do exploratory data analysis and answer some interesting questions with visualization.
