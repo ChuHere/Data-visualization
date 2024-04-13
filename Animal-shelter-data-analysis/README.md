@@ -1,1 +1,1 @@
-In this project, we will look into animal shelter data from Austin, Texas USA. We will do exploratory data analysis and answer some interesting questions with visualization. This project is done in Jupyter notebook with Python.
+This project was made as a university assignment. In this project, we will look into animal shelter data from Austin, Texas USA. We will do exploratory data analysis and answer some interesting questions with visualization. This project is done in Jupyter notebook with Python.
